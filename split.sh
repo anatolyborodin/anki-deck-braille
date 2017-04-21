@@ -4,7 +4,7 @@ set -e
 
 main()
 {
-	rm -rf "output"
+	rm -rf output/*.png output/deck-template.txt
 	mkdir -p "output"
 	for id in $(seq 0 63)
 	do
