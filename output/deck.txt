@@ -1,0 +1,64 @@
+000000.png	(space)
+000001.png	(caps)
+000010.png	(abbreviation 1)
+000011.png	(letter)
+000100.png	(accent)
+000101.png	(decimal dot) (emphasis)
+000110.png	(abbreviation 2)
+000111.png	(abbreviation 3)
+001000.png	’
+001001.png	-
+001010.png	in
+001011.png	” by
+001100.png	st /
+001101.png	-ing
+001110.png	ar
+001111.png	(number) -ble
+010000.png	, -ea-
+010001.png	en
+010010.png	: -cc-
+010011.png	. -dd-
+010100.png	9 i
+010101.png	ow
+010110.png	0 j
+010111.png	w
+011000.png	; -bb-
+011001.png	? “
+011010.png	! -ff-
+011011.png	( ) -gg-
+011100.png	s
+011101.png	the
+011110.png	t
+011111.png	with
+100000.png	1 a
+100001.png	ch
+100010.png	5 e
+100011.png	wh
+100100.png	3 c
+100101.png	sh
+100110.png	4 d
+100111.png	th
+101000.png	k
+101001.png	u
+101010.png	o
+101011.png	z
+101100.png	m
+101101.png	x
+101110.png	n
+101111.png	y
+110000.png	2 b
+110001.png	gh
+110010.png	8 h
+110011.png	ou
+110100.png	6 f
+110101.png	ed
+110110.png	7 g
+110111.png	er
+111000.png	l
+111001.png	v
+111010.png	r
+111011.png	of
+111100.png	p
+111101.png	and
+111110.png	q
+111111.png	for
